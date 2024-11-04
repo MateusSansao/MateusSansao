@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋,sou Mateus Sansão</h1>
+<h1 align="left">Olá! 👋,sou Mateus Sansão</h1>
 - 🔭 Atualmente estou trabalhando no [Escalize](https://escalize.com.br/)
 
 <h3 align="left">Connect with me:</h3>
