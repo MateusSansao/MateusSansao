@@ -2,7 +2,7 @@
 
 <p> Que bom ter você no meu GitHub! Sou o Mateus, desenvolvedor front-end e web, com conhecimento em desenvolvimento back-end. Aqui está um pouco sobre mim. </p>
 
-<h1>📌Sobre mim</h1>
+<h2>📌Sobre mim</h2>
 
 <p>
 Possuo curso técnico em Desenvolvimento de Sistemas e Programação Web pelo SENAC. Estou há um ano e meio estudando desenvolvimento e há oito meses trabalhando na área como desenvolvedor front-end. Tive uma ótima experiência no hackathon de 2023 pela associação SENAC, alcançando o primeiro lugar estadual com a ajuda da minha equipe. Atualmente, trabalho como desenvolvedor web em aplicações React com TypeScript.
@@ -14,8 +14,6 @@ Possuo curso técnico em Desenvolvimento de Sistemas e Programação Web pelo SE
 <h4 align="left">Frontend:</h4>
 
 [![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css)](https://skillicons.dev)
-
-
 
 
 <h3 align="left">Backend:</h3>
