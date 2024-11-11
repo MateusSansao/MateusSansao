@@ -5,7 +5,7 @@
 <h2>📌Sobre mim</h2>
 
 <p>
-Possuo curso técnico em Desenvolvimento de Sistemas e Programação Web pelo SENAC. Estou há um ano e meio estudando desenvolvimento e há oito meses trabalhando na área como desenvolvedor front-end. Tive uma ótima experiência no hackathon de 2023 pela associação SENAC, alcançando o primeiro lugar estadual com a ajuda da minha equipe. Atualmente, trabalho como desenvolvedor web em aplicações React com TypeScript.
+Possuo curso técnico em Desenvolvimento de Sistemas e Programação Web pelo <a href="https://www.sc.senac.br/" target="_blank">SENAC</a>. Estou há um ano e meio estudando desenvolvimento e há oito meses trabalhando na área como desenvolvedor front-end. Tive uma ótima experiência no hackathon de 2023 pela associação SENAC, alcançando o primeiro lugar estadual com a ajuda da minha equipe. Atualmente, trabalho como desenvolvedor web em aplicações React com TypeScript.
 </p>
 
 <p>Se quiser saber mais sobre mim, pode me chamar no <a href="https://www.linkedin.com/in/mateus-sans%C3%A3o-pereira-a433b6269/" target="_blank">LinkedIn</a>.</p>
