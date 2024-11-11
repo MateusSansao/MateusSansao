@@ -1,34 +1,28 @@
 <h1 align="left">Olá! 👋,sou Mateus Sansão</h1>
-- 🔭 Atualmente estou trabalhando no [Escalize](https://escalize.com.br/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in//mateus-sans%c3%a3o-pereira-a433b6269/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/mateus-sans%c3%a3o-pereira-a433b6269/" height="30" width="40" /></a>
-<a href="https://instagram.com//mateus_sansao_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="/mateus_sansao_/" height="30" width="40" /></a>
+<p> Que bom ter você no meu GitHub! Sou o Mateus, desenvolvedor front-end e web, com conhecimento em desenvolvimento back-end. Aqui está um pouco sobre mim. </p>
+
+<h1>📌Sobre mim</h1>
+
+<p>
+Possuo curso técnico em Desenvolvimento de Sistemas e Programação Web pelo SENAC. Estou há um ano e meio estudando desenvolvimento e há oito meses trabalhando na área como desenvolvedor front-end. Tive uma ótima experiência no hackathon de 2023 pela associação SENAC, alcançando o primeiro lugar estadual com a ajuda da minha equipe. Atualmente, trabalho como desenvolvedor web em aplicações React com TypeScript.
 </p>
 
-<hr style="border: none; border-top: 0.5px solid white; margin: 10px 0;" />
-
-<h3 align="left">Frontend:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+<p>Se quiser saber mais sobre mim, pode me chamar no <a href="https://www.linkedin.com/in/mateus-sans%C3%A3o-pereira-a433b6269/" target="_blank">LinkedIn</a>.</p>
 
 
-<hr style="border: none; border-top: 0.5px solid white; margin: 10px 0;" />
+<h4 align="left">Frontend:</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css)](https://skillicons.dev)
+
+
+
 
 <h3 align="left">Backend:</h3>
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-</p>
-
-<hr style="border: none; border-top: 0.5px solid white; margin: 10px 0;" />
-
-<h3 align="left">Banco de Dados:</h3>
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="sqlserver" width="40" height="40"/> </a>
 </p>
 
 <hr style="border: none; border-top: 0.5px solid white; margin: 10px 0;" />
