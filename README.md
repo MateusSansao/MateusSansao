@@ -20,8 +20,6 @@ Possuo curso técnico em Desenvolvimento de Sistemas e Programação Web pelo <a
 
 [![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
 
-<hr style="border: none; border-top: 0.5px solid white; margin: 10px 0;" />
-
 <h3 align="left">Outras Ferramentas:</h3>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
