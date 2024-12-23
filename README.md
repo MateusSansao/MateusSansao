@@ -17,11 +17,8 @@ Possuo curso técnico em Desenvolvimento de Sistemas e Programação Web pelo <a
 
 
 <h3 align="left">Backend:</h3>
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-</p>
+
+[![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
 
 <hr style="border: none; border-top: 0.5px solid white; margin: 10px 0;" />
 
