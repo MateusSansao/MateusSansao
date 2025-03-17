@@ -23,3 +23,7 @@ Possuo curso técnico em Desenvolvimento de Sistemas e Programação Web pelo <a
 <h3 align="left">Outras Ferramentas:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=github,git,linux,windows,notion,instagram)](https://skillicons.dev)
+
+<h2>Statistic</h2>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
