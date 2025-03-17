@@ -26,4 +26,4 @@ Possuo curso técnico em Desenvolvimento de Sistemas e Programação Web pelo <a
 
 <h2>Statistic</h2>
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MateusSansao)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=MateusSansao)
