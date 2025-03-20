@@ -26,4 +26,6 @@ Possuo curso técnico em Desenvolvimento de Sistemas e Programação Web pelo <a
 
 <h2>Statistic</h2>
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=MateusSansao)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusSansao&show_icons=true&theme=radical) 
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=MateusSansao&theme=tokyonight)
