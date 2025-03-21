@@ -1,4 +1,8 @@
-<h1 align="left">Olá! 👋,sou Mateus Sansão</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFF00&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF00&size=35&center=true&vCenter=true&width=1000&lines=Olá👋;Bem-vindo(a)+ao+meu+repositório!;:%29)](https://git.io/typing-svg)
+
+<h1 align="left">Sou Mateus Sansão👋</h1>
 
 <p> Que bom ter você no meu GitHub! Sou o Mateus, desenvolvedor front-end e web, com conhecimento em desenvolvimento back-end. Aqui está um pouco sobre mim. </p>
 
@@ -29,3 +33,5 @@ Possuo curso técnico em Desenvolvimento de Sistemas e Programação Web pelo <a
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusSansao&show_icons=true&theme=radical) 
 
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=MateusSansao&theme=tokyonight)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFF00&height=120&section=footer"/>
