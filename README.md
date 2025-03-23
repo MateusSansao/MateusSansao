@@ -2,17 +2,24 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF00&size=35&center=true&vCenter=true&width=1000&lines=Olá👋;Bem-vindo(a)+ao+meu+repositório!;:%29)](https://git.io/typing-svg)
 
-<h1 align="left">Sou Mateus Sansão👋</h1>
-
-<p> Que bom ter você no meu GitHub! Sou o Mateus, desenvolvedor front-end e web, com conhecimento em desenvolvimento back-end. Aqui está um pouco sobre mim. </p>
+<p><h1>👋 Olá! Eu sou o Mateus Sansão</h1>Desenvolvedor front-end apaixonado por tecnologia e inovação. Sempre busco desafios que me permitam aprender e evoluir, criando soluções eficientes e impactantes.</p>
 
 <h2>📌Sobre mim</h2>
 
 <p>
-Possuo curso técnico em Desenvolvimento de Sistemas e Programação Web pelo <a href="https://www.sc.senac.br/" target="_blank">SENAC</a>. Estou há um ano e meio estudando desenvolvimento e há oito meses trabalhando na área como desenvolvedor front-end. Tive uma ótima experiência no hackathon de 2023 pela associação SENAC, alcançando o primeiro lugar estadual com a ajuda da minha equipe. Atualmente, trabalho como desenvolvedor web em aplicações React com TypeScript.
+Minha jornada na programação começou com cursos que me deram uma base sólida, incluindo Programador de Sistemas e Programador Web pelo SENAC (ambos com 200h de duração), além de um curso de JavaScript pelo Curso em Vídeo.
+
+Em 2023, participei do Hacktoon do SENAC Brusque, onde trabalhei em equipe para desenvolver uma solução voltada para a segurança nas escolas. Esse desafio me trouxe uma experiência valiosa e resultou na conquista do 1º lugar na competição.
+
+Profissionalmente, atuei como desenvolvedor front-end na Escalize, uma startup voltada para a gestão hospitalar. Durante 1 ano e 3 meses, dei manutenção e melhorias em um web app utilizado por grandes hospitais para gerenciamento de plantões médicos, além de atuar no desenvolvimento de sites responsivos utilizando Next.js e React.js.
+
+Além disso, trabalho como freelancer, desenvolvendo landing pages para anúncios e captação de clientes. Essa experiência me permitiu aprimorar minhas habilidades em desenvolvimento web, SEO e otimização de conversão, criando soluções personalizadas para diferentes nichos de mercado.
+
+Atualmente, sigo aprimorando minhas habilidades com o curso da Rocketseat, buscando sempre novas oportunidades para crescer e contribuir com projetos inovadores.
 </p>
 
 <p>Se quiser saber mais sobre mim, pode me chamar no <a href="https://www.linkedin.com/in/mateus-sans%C3%A3o-pereira-a433b6269/" target="_blank">LinkedIn</a>.</p>
+<p>📩 Se precisar entrar em contato, me envie um e-mail: <a href="mailto:mateussansaopereira@gmail.com">mateussansaopereira@gmail.com</a>.</p>
 
 
 <h4 align="left">Frontend:</h4>
