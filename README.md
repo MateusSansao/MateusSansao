@@ -19,7 +19,7 @@ Atualmente, sigo aprimorando minhas habilidades com o curso da Rocketseat, busca
 </p>
 
 <p>Se quiser saber mais sobre mim, pode me chamar no <a href="https://www.linkedin.com/in/mateus-sans%C3%A3o-pereira-a433b6269/" target="_blank">LinkedIn</a>.</p>
-<p>📩 Se precisar entrar em contato, me envie um e-mail: <a href="mailto:mateussansaopereira@gmail.com">mateussansaopereira@gmail.com</a>.</p>
+<p>📩 Se precisar entrar em contato, me envie um e-mail: <a href="mailto:mateussansaopereira@gmail.com">mateussansaopereira@gmail.com</a></p>
 
 
 <h4 align="left">Frontend:</h4>
