@@ -29,7 +29,7 @@ Atualmente, sigo aprimorando minhas habilidades com o curso da Rocketseat, busca
 
 <h3 align="left">Backend:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,php,laravel)](https://skillicons.dev)
 
 <h3 align="left">Outras Ferramentas:</h3>
 
