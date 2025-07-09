@@ -33,7 +33,7 @@ Atualmente, sigo aprimorando minhas habilidades com o curso da Rocketseat, busca
 
 <h3 align="left">Outras Ferramentas:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=github,git,linux,windows,notion,instagram)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git,linux,windows,notion)](https://skillicons.dev)
 
 <h2>Statistic</h2>
 
