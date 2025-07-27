@@ -13,7 +13,7 @@ Em 2023, participei do Hacktoon do SENAC Brusque, onde trabalhei em equipe para 
 
 Profissionalmente, atuei como desenvolvedor front-end na Escalize, uma startup voltada para a gestão hospitalar. Durante 1 ano e 3 meses, dei manutenção e melhorias em um web app utilizado por grandes hospitais para gerenciamento de plantões médicos, além de atuar no desenvolvimento de sites responsivos utilizando Next.js e React.js.
 
-Além disso, trabalho como freelancer, desenvolvendo landing pages para anúncios e captação de clientes. Essa experiência me permitiu aprimorar minhas habilidades em desenvolvimento web, SEO e otimização de conversão, criando soluções personalizadas para diferentes nichos de mercado.
+Além disso, trabalho como freelancer, desenvolvendo landing pages para anúncios e captação de clientes. Essa experiência me permitiu aprimorar minhas habilidades em desenvolvimento web, criando soluções personalizadas para diferentes nichos de mercado.
 
 Atualmente, sigo aprimorando minhas habilidades com o curso da Rocketseat, buscando sempre novas oportunidades para crescer e contribuir com projetos inovadores.
 </p>
