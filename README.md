@@ -1,7 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFF00&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF00&size=35&center=true&vCenter=true&width=1000&lines=Olá👋;Bem-vindo(a)+ao+meu+repositório!;:%29)](https://git.io/typing-svg)
-
 <p><h1>👋 Olá! Eu sou o Mateus Sansão</h1>Desenvolvedor front-end apaixonado por tecnologia e inovação. Sempre busco desafios que me permitam aprender e evoluir, criando soluções eficientes e impactantes.</p>
 
 <h2>📌Sobre mim</h2>
@@ -41,4 +37,3 @@ Atualmente, sigo aprimorando minhas habilidades com o curso da Rocketseat, busca
 
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=MateusSansao&theme=tokyonight)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFF00&height=120&section=footer"/>
