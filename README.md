@@ -1,6 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF00&size=35&center=true&vCenter=true&width=1000&lines=Olá👋;Bem-vindo(a)+ao+meu+repositório!;:%29)](https://git.io/typing-svg)
-
-<p><h1>👋 Olá! Eu sou o Mateus Sansão</h1>Desenvolvedor front-end apaixonado por tecnologia e inovação. Sempre busco desafios que me permitam aprender e evoluir, criando soluções eficientes e impactantes.</p>
+<p>
+  <h1>Olá! Eu sou o Mateus Sansão 👋</h1>
+  Desenvolvedor front-end apaixonado por tecnologia e inovação. Sempre busco desafios que me permitam aprender e evoluir, criando soluções eficientes e impactantes.
+</p>
 
 <h2>📌Sobre mim</h2>
 
