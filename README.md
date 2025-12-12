@@ -1,6 +1,6 @@
 <p>
   <h1>Olá! Eu sou o Mateus Sansão 👋</h1>
-  Desenvolvedor front-end apaixonado por tecnologia e inovação. Sempre busco desafios que me permitam aprender e evoluir, criando soluções eficientes e impactantes.
+  Desenvolvedor Full-Stack apaixonado por tecnologia e inovação. Sempre busco desafios que me permitam aprender e evoluir, criando soluções eficientes e impactantes.
 </p>
 
 <h2>📌Sobre mim</h2>
