@@ -6,15 +6,13 @@
 <h2>📌Sobre mim</h2>
 
 <p>
-Minha jornada na programação começou com cursos que me deram uma base sólida, incluindo Programador de Sistemas e Programador Web pelo SENAC (ambos com 200h de duração), além de um curso de JavaScript pelo Curso em Vídeo.
+Minha jornada na programação começou com cursos que me deram uma base sólida na área de desenvolvimento. Concluí as formações de Programador de Sistemas e Programador Web pelo SENAC (ambos com 200 horas), além de um curso de JavaScript pelo Curso em Vídeo, onde desenvolvi fundamentos importantes para a construção de aplicações web.
 
-Em 2023, participei do Hacktoon do SENAC Brusque, onde trabalhei em equipe para desenvolver uma solução voltada para a segurança nas escolas. Esse desafio me trouxe uma experiência valiosa e resultou na conquista do 1º lugar na competição.
+Em 2023, participei do Hacktoon do SENAC Brusque, onde trabalhei em equipe no desenvolvimento de uma solução voltada para a segurança nas escolas. Essa experiência foi muito marcante, pois além do aprendizado em trabalho colaborativo e resolução de problemas, conquistamos o 1º lugar na competição.
 
-Profissionalmente, atuei como desenvolvedor front-end na Escalize, uma startup voltada para a gestão hospitalar. Durante 1 ano e 3 meses, dei manutenção e melhorias em um web app utilizado por grandes hospitais para gerenciamento de plantões médicos, além de atuar no desenvolvimento de sites responsivos utilizando Next.js e React.js.
+Profissionalmente, iniciei minha trajetória como desenvolvedor front-end na Escalize, uma startup focada em gestão hospitalar. Durante 1 ano e 3 meses, atuei na manutenção e evolução de um web app utilizado por grandes hospitais para gerenciamento de plantões médicos, além de participar do desenvolvimento de sites responsivos utilizando React.js e Next.js.
 
-Além disso, trabalho como freelancer, desenvolvendo landing pages para anúncios e captação de clientes. Essa experiência me permitiu aprimorar minhas habilidades em desenvolvimento web, criando soluções personalizadas para diferentes nichos de mercado.
-
-Atualmente, sigo aprimorando minhas habilidades com o curso da Rocketseat, buscando sempre novas oportunidades para crescer e contribuir com projetos inovadores.
+Atualmente, atuo como desenvolvedor full stack na Imobia, trabalhando tanto no front-end com Vue.js quanto no back-end com Laravel. No dia a dia, participo da evolução da plataforma através da resolução de bugs, refatorações e desenvolvimento de novas funcionalidades, além da criação de dashboards, melhorias em produtos e implementação de novas features, incluindo módulos como análise de ficha e dashboard.
 </p>
 
 <p>Se quiser saber mais sobre mim, pode me chamar no <a href="https://www.linkedin.com/in/mateus-sans%C3%A3o-pereira-a433b6269/" target="_blank">LinkedIn</a>.</p>
