@@ -21,7 +21,7 @@ Atualmente, atuo como desenvolvedor full stack na Imobia, trabalhando tanto no f
 
 <h4 align="left">Frontend:</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,vue,tailwind,bootstrap,next,nuxt,vuetify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,vue,tailwind,next,nuxt,vuetify)](https://skillicons.dev)
 
 
 <h3 align="left">Backend:</h3>
