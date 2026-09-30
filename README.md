@@ -27,7 +27,3 @@ Atualmente, atuo como desenvolvedor full stack na Imobia, trabalhando tanto no f
 <h3 align="left">Backend:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=cs,php,laravel)](https://skillicons.dev)
-
-<h2>Statistic</h2>
-
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=MateusSansao&theme=tokyonight)
